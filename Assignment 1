@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<title>Spotify Layout</title>
+</head>
+<body>
+<h1>Albums</h1><br>
+<p>
+<em>Without Warning</em><br>
+<em>Still Striving</em><br>
+</p>
+<h2>Liked Songs</h2><br>
+<p>
+<strong>Rap saved Me</strong><br>
+<strong>Ghostface Killers</strong><br>
+</p>
+<h3>Playlists</h3><br>
+<a href=”https://www.twitch.tv/”> Here </a><br>
+<a href=”cosc.html”> Here </a><br>
+<ul>
+<li>Shuffled songs from playlist
+<li>3 Nights</li>
+<li> Livin’ on a Prayer</li>
+</ul>
+<ol>
+<li> Album songs</li>
+<li>Rap saved me</li>
+<li>Ghostface Killers</li>
+</ol>
+<img src=”https://bit.ly/2FSflBW” alt=”Mountain”><br>
+<img src=”/pictures/Passport.jpg” alt=”My passport”><br>
+<a href=”#chapter2”>Here</a><br>
+</body>
+</html>
